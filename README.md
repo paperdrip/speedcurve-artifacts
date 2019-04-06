@@ -35,3 +35,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgement
 SpeedCurve is an essential tools for understanding how your website perform across platform and region. And the idea of writing this script originated from a post on SpeedCurve that a [NPM module](https://www.npmjs.com/package/speedcurve2csv) is developed for exporting the test data to CSV. This triggered my thought of writing this script to download the artifacts.
+
+This [README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) provides a good reference for me in creating this document. 
